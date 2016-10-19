@@ -8,7 +8,7 @@ public class Test {
         Human WuSui = InstantiateAndObjectList.instantiate("吴随","男");
         Human XuShuZhan = InstantiateAndObjectList.instantiate("徐书展","男");
         Human ZhengYuXuan = InstantiateAndObjectList.instantiate("郑昱旋","男");
-        Human WuYue = InstantiateAndObjectList.instantiate("吴越","男");
+        Human CaoYue = InstantiateAndObjectList.instantiate("曹越","男");
         System.out.println(InstantiateAndObjectList.showList());
     }
 }
